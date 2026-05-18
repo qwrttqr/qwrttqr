@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Qwrttqr</h1>
-    [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/qwrttqr)
+  
+  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/qwrttqr)
+  
   <h2>Web developer from Russia</h2>
   
   <br/>
