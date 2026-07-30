@@ -3,14 +3,6 @@
   
   <h2>Backend developer</h2>
   
-  <h3>Languages & Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  </p>
-  <br/>
-
   <h3>Interested in</h3>
   <p>
     Backend, Distributed systems, parallel computation
