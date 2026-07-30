@@ -7,7 +7,6 @@
   <p>
     Backend, Distributed systems, parallel computation
   </p>
-  <br/>
 
   <h3>Backend & DB</h3>
   <p>
