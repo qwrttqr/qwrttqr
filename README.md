@@ -13,4 +13,8 @@
   <img src="https://skillicons.dev/icons?i=go,python,postgres,redis,kafka" />
 
   <br/>
+
+  <div align="center">
+    <img src="./xd.gif.mp4" width="600"/>
+  </div>
 </div>
