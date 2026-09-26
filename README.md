@@ -15,6 +15,6 @@
   <br/>
 
   <div align="center">
-    <img src="./xd.gif.mp4" width="600"/>
+    <img src="./xd.gif" width="600"/>
   </div>
 </div>
